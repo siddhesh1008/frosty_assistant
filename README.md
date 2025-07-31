@@ -6,9 +6,7 @@
 
 ## 🚀 Architecture Overview
 
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/e2aa8e12-e5fb-46af-8f91-06099bbb94e5" />
-
-
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/d9d2314f-b22b-4af9-b6a6-546dfb566617" />
 
 ---
 
