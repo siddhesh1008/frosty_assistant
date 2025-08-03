@@ -1,2 +1,4 @@
 .env
 venv
+Backend/__pycache__/Chatbot.cpython-312.pyc
+testing_script.py
