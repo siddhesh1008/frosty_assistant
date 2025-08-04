@@ -2,3 +2,4 @@
 venv
 Backend/__pycache__/Chatbot.cpython-312.pyc
 testing_script.py
+Backend/__pycache__/TextToSpeech.cpython-312.pyc
